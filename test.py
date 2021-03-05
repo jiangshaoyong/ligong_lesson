@@ -1,5 +1,3 @@
-hello
-printlo
-jiangshaoyong
-I like jiangshao yong 
-if I will do a one thisng 
+#include "isotream"
+int main()
+{print("I will try")}
